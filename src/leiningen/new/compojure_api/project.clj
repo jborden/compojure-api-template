@@ -1,7 +1,7 @@
 (defproject {{name}} "0.1.0-SNAPSHOT"
   :description "FIXME: write this!"
   :url "http://example.com/FIXME"
-  :dependencies [[aleph "0.4.6"]
+  :dependencies [[aleph "0.5.0"]
                  [org.clojure/clojure "1.11.1"]
                  [org.clojure/data.json "2.4.0"]
                  [compojure "1.7.0"]
